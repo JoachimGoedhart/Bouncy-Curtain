@@ -9,9 +9,9 @@ ImageJ/FIJI macro to generate an animated, curtain-style comparison of two image
 
 There are several platforms for the 'curtain-style' comparison of two images. Some examples are listed here:
 
-* [Napari curtain](https://github.com/haesleinhuepf/napari-curtain)
-* [Curtain tool for ImageJ](https://gist.github.com/mutterer/0c2a8692a3bedf7775fa79e28ce93598)
-* [WebbCompare](https://www.webbcompare.com/)
+* [Napari curtain](https://github.com/haesleinhuepf/napari-curtain) by [Robert Haase](https://x.com/haesleinhuepf/status/1482441182286336004)
+* [Curtain tool for ImageJ](https://gist.github.com/mutterer/0c2a8692a3bedf7775fa79e28ce93598) by [Jerome Mutterer](https://x.com/jmutterer/status/1573051036503343105)
+* [WebbCompare](https://www.webbcompare.com/) by [John Christensen](https://x.com/JohnnyC1423/status/1546908828461154304)
 
 This repo holds an ImageJ/FIJI macro that generates an animated version of a curtain that bounces back-and-forth between two images. This may be useful in presentations or for posting GIFs on social media.
 
