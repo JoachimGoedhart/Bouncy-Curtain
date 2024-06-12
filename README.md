@@ -27,12 +27,13 @@ By default, the output is a stack of 84 images. In ImageJ/FIJI this can be saved
 
 Comparing a plot on a light and a dark background, generated with [EzReverse](https://github.com/Morwey/ezreverse):
 
-![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Plot_EzReverse_Curtain.gif)
+img src="https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Plot_EzReverse_Curtain.gif" width="400"/>
 
 -------------
 
-
 Comparing images from the Hubble and Webb telescope, inspired by [WebbCompare](https://www.webbcompare.com/):
 
-![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Tarantula_Curtain.gif)
+img src="https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Tarantula_Curtain.gif" width="400"/>
+
+
 
