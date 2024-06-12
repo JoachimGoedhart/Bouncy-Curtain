@@ -1,7 +1,9 @@
 # Bouncy-Curtain
 ImageJ/FIJI macro to generate an animated, curtain-style comparison of two images:
 
-![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Cheek_Segmented_Curtain.gif)
+<img src="https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Cheek_Segmented_Curtain.gif" width="400"/>
+
+
 
 ---------------
 
