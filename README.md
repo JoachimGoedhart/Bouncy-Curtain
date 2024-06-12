@@ -21,5 +21,15 @@ By default, the output is a stack of 84 images. In ImageJ/FIJI this can be saved
 
 #### Examples
 
-[]()
+Comparing an image of cheek cells and a mask identifying the cells:
+
+![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Cheek_Segmented_Curtain.gif)
+
+Comparing a plot on a lighjt and a dark background, generated with [EzReverse](https://github.com/Morwey/ezreverse):
+
+![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Plot_EzReverse_Curtain.gif)
+
+Comparing images from the Hubble and Webb telescope, inspired by [WebbCompare](https://www.webbcompare.com/):
+
+![](https://github.com/JoachimGoedhart/Bouncy-Curtain/blob/main/Tarantula_Curtain.gif)
 
